@@ -1,7 +1,26 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h2> This is the build 1 </h2>
-<h2> jenkins to docker integration!!!!! </h2>
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function validateForm() {
+  let x = document.forms["myForm"]["fname"].value;
+  if (x == "") {
+    alert("Name must be filled out");
+    return false;
+  }
+}
+</script>
+</head>
+<body>
 
+<h2>JavaScript Validation</h2>
 
+<form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
+  Name: <input type="text" name="fname">
+  <input type="submit" value="Submit">
+  Name: <input type="text" number="Lname">
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
