@@ -18,7 +18,7 @@ function validateForm() {
 <form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
   Name: <input type="text" name="fname">
   <input type="submit" value="Submit">
-  Name: <input type="text" number="Lname">
+  Name: <input type="text" number=" email">
   <input type="submit" value="Submit">
 </form>
 
