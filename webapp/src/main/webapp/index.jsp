@@ -20,6 +20,8 @@ function validateForm() {
   <input type="submit" value="Submit">
   Name: <input type="text" number=" email">
   <input type="submit" value="Submit">
+  Name: <input type="text" number=" mobile ">
+  <input type="submit" value="Submit">
 </form>
 
 </body>
