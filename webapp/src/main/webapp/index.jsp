@@ -22,7 +22,7 @@ function validateForm() {
   <input type="submit" value="Submit">
   phone: <input type="text" number=" mobile ">
   <input type="submit" value="Submit">
-  Name: <input type="text" number=" mobile ">
+  Address: <input type="text" number=" mobile ">
   <input type="submit" value="Submit">
 </form>
 
